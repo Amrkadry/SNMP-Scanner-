@@ -24,9 +24,9 @@ A simple Bash script to check SNMP port 161 UDP and perform SNMP walks on multip
 
 1. Download the script:
 ```bash
-wget https://your-repo.com/snmp_scanner.sh
+wget https://github.com/SNMP-Scanner/snmp_scanner.sh
 # or
-curl -O https://your-repo.com/snmp_scanner.sh
+curl -O https://github.com/SNMP-Scanner/snmp_scanner.sh
 ```
 
 2. Make it executable:
